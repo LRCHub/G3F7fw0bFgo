@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "彼女は今、迷宮の中。",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2025-12-05T13:41:58.531312Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彼女は今、迷宮の中。 feat.花譜",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_彼女は今、迷宮の中。_feat.花譜_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
